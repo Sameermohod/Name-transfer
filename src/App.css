@@ -1,0 +1,4 @@
+.new-line {
+    white-space: pre-wrap; /* Allows line breaks within the input */
+    word-wrap: break-word; /* Allows words to break onto a new line */
+  }
