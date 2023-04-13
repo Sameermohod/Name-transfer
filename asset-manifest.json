@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Name-transfer/static/css/main.d392e128.css",
+    "main.js": "/Name-transfer/static/js/main.6b1b2897.js",
+    "index.html": "/Name-transfer/index.html",
+    "main.d392e128.css.map": "/Name-transfer/static/css/main.d392e128.css.map",
+    "main.6b1b2897.js.map": "/Name-transfer/static/js/main.6b1b2897.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d392e128.css",
+    "static/js/main.6b1b2897.js"
+  ]
+}
