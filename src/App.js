@@ -37,7 +37,6 @@ const App = () => {
   return (
     <div className=' container row mt-5'>
       <div className='border col-4 h-100 text-center'>
-      
           {firstBoxNames.map((name, index) => <div className='border' key={index}>{name}</div>)}
       </div>
         <div className='col-2'>
